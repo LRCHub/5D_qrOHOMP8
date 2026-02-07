@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Paradis（feat. 瑠華）",
+  "base_artist": "酔シグレ",
+  "createdAt": "2026-02-07T12:00:35.396761Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rue de Paradis (feat. Tertia May)",
+      "artist": "Folamour feat. Tertia May",
+      "has_synced": true,
+      "path": "select/01_Rue_de_Paradis_(feat._Tertia_May)_Folamour_feat._Tertia_May.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rue de Paradis (feat. Tertia May)",
+      "artist": "Folamour",
+      "has_synced": true,
+      "path": "select/02_Rue_de_Paradis_(feat._Tertia_May)_Folamour.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Paradis (feat. Princess Vinia & Kotto Boy)",
+      "artist": "Mr Leo",
+      "has_synced": true,
+      "path": "select/03_Paradis_(feat._Princess_Vinia_&_Kotto_Boy)_Mr_Leo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shay - Paradis (feat. SCH) (Official Audio)",
+      "artist": "Shay",
+      "has_synced": true,
+      "path": "select/04_Shay_-_Paradis_(feat._SCH)_(Official_Audio)_Shay.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Paradis (feat. AnNie .Adaa)",
+      "artist": "Roseboy666",
+      "has_synced": true,
+      "path": "select/05_Paradis_(feat._AnNie_.Adaa)_Roseboy666.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Faux Paradis feat PLK",
+      "artist": "Soprano",
+      "has_synced": true,
+      "path": "select/06_Faux_Paradis_feat_PLK_Soprano.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Faux Paradis (feat. PLK)",
+      "artist": "Soprano",
+      "has_synced": true,
+      "path": "select/07_Faux_Paradis_(feat._PLK)_Soprano.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jihadul In Paradis (feat. Haziran)",
+      "artist": "Luis Gabriel",
+      "has_synced": false,
+      "path": "select/08_Jihadul_In_Paradis_(feat._Haziran)_Luis_Gabriel.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Paradis (feat. 瑠華)",
+      "artist": "酔シグレ",
+      "has_synced": false,
+      "path": "select/pl_01_Paradis_(feat._瑠華)_酔シグレ.txt"
+    }
+  ]
+}
